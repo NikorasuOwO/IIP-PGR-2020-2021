@@ -37,9 +37,23 @@ public class ArraysUtils {
         }
         
     return min;
+
+
     
     }
+
+    public static int MaxArray(int[] a){
     
+    int max = a[0];
+       
+        for(int i = 1 ; i < a.length ; i++){
+            
+            if(max < a[i]){max = a[i];}
+        
+        }
+        
+    return max;
+}
     public static double MediaPonderada(double[] lista, double[] pesos){
         
         if(lista.length != pesos.length){return Double.NaN;}
@@ -134,6 +148,29 @@ public class ArraysUtils {
             
         }
         return array;
+    }
+    
+    public static void displayArray(int[] a){
+        
+            System.out.print(a[0]);
+
+        
+        for(int i = 1 ; i < a.length ; i++){
+        
+            System.out.print(" "+ a[i]);
+        
+        }
+        
+    }
+    
+    public static void displayInvertedArray(int[] a){
+        
+        for(int i = a.length-1 ; i > 0 ; i--){
+        
+            System.out.print(a[i]+" ");
+        
+        }
+        System.out.print(a[0]);
     }
     
     public static void main (String args[]){
