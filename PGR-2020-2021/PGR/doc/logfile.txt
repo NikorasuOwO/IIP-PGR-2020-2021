@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+E:\Programas\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+E:\Programas\BlueJ\lib\bluejcore.jar;E:\Programas\BlueJ\lib\junit-4.12.jar;E:\Programas\BlueJ\lib\junit-jupiter-5.5.2.jar;E:\Programas\BlueJ\lib\junit-jupiter-api-5.5.2.jar;E:\Programas\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;E:\Programas\BlueJ\lib\junit-jupiter-migrationsupport-5.5.2.jar;E:\Programas\BlueJ\lib\junit-jupiter-params-5.5.2.jar;E:\Programas\BlueJ\lib\junit-platform-commons-1.5.2.jar;E:\Programas\BlueJ\lib\junit-platform-console-1.5.2.jar;E:\Programas\BlueJ\lib\junit-platform-console-standalone-1.5.2.jar;E:\Programas\BlueJ\lib\junit-platform-engine-1.5.2.jar;E:\Programas\BlueJ\lib\junit-platform-launcher-1.5.2.jar;E:\Programas\BlueJ\lib\junit-platform-reporting-1.5.2.jar;E:\Programas\BlueJ\lib\junit-platform-runner-1.5.2.jar;E:\Programas\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;E:\Programas\BlueJ\lib\junit-platform-testkit-1.5.2.jar;E:\Programas\BlueJ\lib\junit-quickcheck-core-0.9.jar;E:\Programas\BlueJ\lib\junit-vintage-engine-5.5.2.jar;E:\Programas\BlueJ\lib\hamcrest-core-1.3.jar;E:\Programas\BlueJ\lib\hamcrest-library-1.3.jar;E:\Programas\BlueJ\lib\lang-stride.jar;E:\Programas\BlueJ\lib\javafx\lib\javafx.base.jar;E:\Programas\BlueJ\lib\javafx\lib\javafx.controls.jar;E:\Programas\BlueJ\lib\javafx\lib\javafx.fxml.jar;E:\Programas\BlueJ\lib\javafx\lib\javafx.graphics.jar;E:\Programas\BlueJ\lib\javafx\lib\javafx.media.jar;E:\Programas\BlueJ\lib\javafx\lib\javafx.properties.jar;E:\Programas\BlueJ\lib\javafx\lib\javafx.swing.jar;E:\Programas\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Users\Nicolas\Desktop\Programacion\PGR\PGR
+-d
+C:\Users\Nicolas\Desktop\Programacion\PGR\PGR\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\Nicolas\Desktop\Programacion\PGR\PGR\Ficheros\Parcial20178.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Nicolas\Desktop\Programacion\PGR\PGR\Ficheros\Parcial20178.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating C:\Users\Nicolas\Desktop\Programacion\PGR\PGR\doc\Ficheros\Parcial20178.html...
+Generating C:\Users\Nicolas\Desktop\Programacion\PGR\PGR\doc\Ficheros\package-summary.html...
+Generating C:\Users\Nicolas\Desktop\Programacion\PGR\PGR\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Nicolas\Desktop\Programacion\PGR\PGR\doc\allclasses.html...
+Generating C:\Users\Nicolas\Desktop\Programacion\PGR\PGR\doc\allclasses.html...
+Generating C:\Users\Nicolas\Desktop\Programacion\PGR\PGR\doc\index.html...

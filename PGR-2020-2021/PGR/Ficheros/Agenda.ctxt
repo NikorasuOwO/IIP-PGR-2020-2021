@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Agenda
+comment1.params=
+comment1.target=Agenda()
+comment2.params=b
+comment2.target=void\ insertar(ItemAgenda)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=fichero
+comment4.target=void\ guardarAgenda(java.lang.String)
+comment5.params=fichero
+comment5.target=Agenda\ leerAgenda(java.lang.String)
+numComments=6

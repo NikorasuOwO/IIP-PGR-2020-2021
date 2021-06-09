@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=NodeInt
+comment1.params=data\ next\ previous
+comment1.target=NodeInt(int,\ NodeInt,\ NodeInt)
+comment10.params=
+comment10.target=java.lang.String\ destination_route_values()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=data\ next
+comment2.target=NodeInt(int,\ NodeInt)
+comment3.params=data
+comment3.target=NodeInt(int)
+comment4.params=n
+comment4.target=NodeInt\ randomSequence(int)
+comment5.params=n
+comment5.target=NodeInt\ OrderedSequence(int)
+comment6.params=
+comment6.target=java.lang.String\ next_toString()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=java.lang.String\ toStringRaw()
+comment9.params=
+comment9.target=java.lang.String\ destination_route_ids()
+numComments=12

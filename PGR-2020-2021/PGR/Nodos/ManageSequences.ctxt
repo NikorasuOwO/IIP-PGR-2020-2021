@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ManageSequences
+comment0.text=\r\n\ \ \ \ Read\ and\ Write\ node\ sequences\ with\ Mermaid\ formatting\r\n
+comment1.params=n\ file
+comment1.target=boolean\ SaveSequenceTXT(NodeInt,\ java.lang.String)
+comment2.params=n\ file
+comment2.target=boolean\ SaveSequenceHTML(NodeInt,\ java.lang.String)
+comment3.params=line
+comment3.target=int\ ProcessLine(java.lang.String)
+comment4.params=file\ first
+comment4.target=boolean\ ReadSecuencia(java.lang.String,\ NodeInt)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

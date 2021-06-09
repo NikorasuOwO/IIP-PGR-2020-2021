@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Parcial20178
+comment0.text=\r\nSe\ pide\:\ implementar\ un\ m\u00B4etodo\ est\u00B4atico\ tal\ que,\ dado\ un\ array\ de\ int,\ copie\ sus\ elementos,\r\nuno\ por\ l\u00B4\u0131nea,\ en\ un\ fichero\ de\ texto\ de\ nombre\ "ArrayElements.txt".\ As\u00B4\u0131,\ si\ el\ array\ es\ {5,\ 2,\ 8,\ 4},\ en\ el\r\nfichero\ se\ almacenar\u00B4an,\ uno\ por\ l\u00B4\u0131nea,\ los\ valores\ 5,\ 2,\ 8\ y\ 4.\ El\ m\u00B4etodo\ debe\ devolver\ como\ resultado\ el\ objeto\r\nFile\ creado.\r\nDeber\u00B4a\ tratar\ la\ posible\ excepci\u00B4on\ FileNotFoundException,\ mostrando\ un\ mensaje\ de\ error\ en\ caso\ de\ que\r\nesta\ se\ produzca\r\n
+comment1.params=a
+comment1.target=java.io.File\ GuardarArray(int[])
+numComments=2

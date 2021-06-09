@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NodeStudent
+comment1.params=name\ grade\ next
+comment1.target=NodeStudent(java.lang.String,\ double,\ NodeStudent)
+comment2.params=name\ grade
+comment2.target=NodeStudent(java.lang.String,\ double)
+numComments=3
