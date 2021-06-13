@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Programas_24_25_marzo
+comment1.params=a\ pos
+comment1.target=boolean\ EstaOrdenado(int[],\ int)
+comment2.params=a\ pos
+comment2.target=int\ BuscarCorteX(double[],\ int)
+comment3.params=a\ h\ pos
+comment3.target=boolean\ multisproof(int[],\ int,\ int)
+comment3.text=Buscar\ recursivamente\ si\ mi\ hip\u00F3tesis\ h\ es\ igual\ a\ la\ suma\ de\ los\ elementos\ del\ array\ a\ *
+comment4.params=bin\ pos
+comment4.target=int\ bin2dec(int[],\ int)
+comment5.params=bin\ pos
+comment5.target=int\ bin_inv_2dec(int[],\ int)
+numComments=6
