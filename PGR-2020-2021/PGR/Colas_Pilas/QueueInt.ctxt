@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=QueueInt
+comment1.params=
+comment1.target=QueueInt()
+comment2.params=a
+comment2.target=QueueInt(int[])
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=int\ element()
+comment6.params=
+comment6.target=int\ remove()
+comment7.params=x
+comment7.target=void\ add(int)
+numComments=8

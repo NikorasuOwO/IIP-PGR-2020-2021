@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=StackEx
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PIlasEJ\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=stack
+comment1.target=void\ showStack(StackInt)
+comment2.params=stack
+comment2.target=void\ showStackInversed(StackInt)
+comment3.params=stack
+comment3.target=StackInt\ inverted(StackInt)
+comment4.params=stack
+comment4.target=void\ inversion(StackInt)
+comment5.params=stack
+comment5.target=void\ inversion2(StackInt)
+comment6.params=stack
+comment6.target=int\ StackSum(StackInt)
+comment7.params=stack
+comment7.target=void\ shStackRec(StackInt)
+comment8.params=stack
+comment8.target=void\ invShStackRec(StackInt)
+numComments=9

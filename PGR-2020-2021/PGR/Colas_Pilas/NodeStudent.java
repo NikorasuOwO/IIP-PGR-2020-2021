@@ -1,4 +1,4 @@
-package Nodos;
+package Colas_Pilas;
 
 public class NodeStudent{
 

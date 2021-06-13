@@ -1,11 +1,11 @@
 #BlueJ package file
-dependency1.from=ManageSequences
+dependency1.from=EjerciciosNodos
 dependency1.to=NodeInt
 dependency1.type=UsesDependency
 dependency2.from=NodeInt
 dependency2.to=ManageSequences
 dependency2.type=UsesDependency
-dependency3.from=EjerciciosNodos
+dependency3.from=ManageSequences
 dependency3.to=NodeInt
 dependency3.type=UsesDependency
 dependency4.from=NASPRG
@@ -17,8 +17,8 @@ package.divider.horizontal=0.6003316749585407
 package.divider.vertical=0.7085346215780999
 package.editor.height=433
 package.editor.width=1072
-package.editor.x=598
-package.editor.y=169
+package.editor.x=582
+package.editor.y=119
 package.frame.height=742
 package.frame.width=1242
 package.numDependencies=4
