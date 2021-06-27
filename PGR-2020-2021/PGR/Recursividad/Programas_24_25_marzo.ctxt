@@ -11,4 +11,6 @@ comment4.params=bin\ pos
 comment4.target=int\ bin2dec(int[],\ int)
 comment5.params=bin\ pos
 comment5.target=int\ bin_inv_2dec(int[],\ int)
-numComments=6
+comment6.params=
+comment6.target=int\ bin2dec_desc_alt()
+numComments=7

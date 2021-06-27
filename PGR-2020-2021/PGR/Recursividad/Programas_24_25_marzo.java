@@ -58,5 +58,6 @@ public class Programas_24_25_marzo {
         }
     }
      public static int bin2dec_desc_alt(){
+         return Integer.MIN_VALUE;
      }
 }

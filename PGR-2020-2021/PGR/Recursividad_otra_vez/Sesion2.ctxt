@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Sesion2
+comment1.params=n
+comment1.target=void\ print(int)
+comment2.params=n
+comment2.target=void\ MostrarDecreciente(int)
+comment3.params=n
+comment3.target=void\ MostrarCreciente(int)
+comment4.params=n
+comment4.target=void\ DigitosInv(int)
+numComments=5

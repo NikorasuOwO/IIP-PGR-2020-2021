@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Sesion1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sesion1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b
+comment1.target=int\ producto(int,\ int)
+comment2.params=a\ b
+comment2.target=int\ cociente(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ multiplicacion_rusa(int,\ int)
+comment4.params=a\ b
+comment4.target=int\ potencia_rusa(int,\ int)
+comment5.params=a
+comment5.target=int\ numero_digitos(int)
+comment6.params=a
+comment6.target=int\ SumaDigitos(int)
+comment7.params=a
+comment7.target=int\ InvertirDigitos(int)
+comment8.params=a
+comment8.target=int\ dec2bin(int)
+numComments=9
