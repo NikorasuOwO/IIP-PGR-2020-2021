@@ -1,0 +1,13 @@
+112
+arguments
+echo
+ejemplo.txt
+forbash.sh
+inf_process.sh
+my_process
+ps1.sh
+ps.txt
+scriptrm
+system_process.sh
+testdir
+test.txt

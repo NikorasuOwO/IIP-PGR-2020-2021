@@ -1,0 +1,11 @@
+    PID TTY          TIME CMD
+ 294264 pts/0    00:00:01 zsh
+ 339897 pts/0    00:00:00 sleep
+ 339934 pts/0    00:00:00 sleep
+ 340421 pts/0    00:00:00 sleep
+ 340424 pts/0    00:00:00 sleep
+ 340427 pts/0    00:00:00 sleep
+ 340430 pts/0    00:00:00 sleep
+ 340433 pts/0    00:00:00 sleep
+ 340447 pts/0    00:00:00 sleep
+ 340955 pts/0    00:00:00 system_process.
